@@ -232,7 +232,7 @@ a {
 
 
     .batman {
-        background-image: linear-gradient(transparent -100%, #0c0c0c 95%), url(img/Image.png);
+        background-image: linear-gradient(transparent -100%, #0c0c0c 95%), url(./img/Image.png);
         background-size: cover;
         height: 100%;
 

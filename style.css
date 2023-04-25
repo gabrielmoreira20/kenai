@@ -18,7 +18,7 @@ body {
 
 .bg {
     height: 100vh;
-    background-image: linear-gradient(transparent 0%, #0c0c0c 75%), url(/img/batman.png);
+    background-image: linear-gradient(transparent 0%, #0c0c0c 75%), url(./img/batman.png);
     height: 1000px;
     width: 100%;
     background-repeat: no-repeat;
@@ -115,7 +115,7 @@ a {
 
 
 .shang-chi {
-    background-image: linear-gradient(180deg, rgba(24, 24, 24, 0) 0%, rgba(24, 24, 24, 0.8) 80.79%), url(/img/Shang-Chi.png);
+    background-image: linear-gradient(180deg, rgba(24, 24, 24, 0) 0%, rgba(24, 24, 24, 0.8) 80.79%), url(./img/Shang-Chi.png);
     background-repeat: no-repeat;
     background-size: cover;
     width: 200px;
@@ -129,7 +129,7 @@ a {
 }
 
 .wish {
-    background-image: linear-gradient(180deg, rgba(24, 24, 24, 0) 0%, rgba(24, 24, 24, 0.8) 80.79%), url(/img/wish-dragon.png);
+    background-image: linear-gradient(180deg, rgba(24, 24, 24, 0) 0%, rgba(24, 24, 24, 0.8) 80.79%), url(./img/wish-dragon.png);
     background-repeat: no-repeat;
     background-size: cover;
     width: 200px;
@@ -144,7 +144,7 @@ a {
 }
 
 .loki {
-    background-image: linear-gradient(180deg, rgba(24, 24, 24, 0) 0%, rgba(24, 24, 24, 0.8) 80.79%), url(/img/loki.png);
+    background-image: linear-gradient(180deg, rgba(24, 24, 24, 0) 0%, rgba(24, 24, 24, 0.8) 80.79%), url(./img/loki.png);
     background-repeat: no-repeat;
     background-size: cover;
     width: 200px;
@@ -157,7 +157,7 @@ a {
 }
 
 .homem-aranha {
-    background-image: linear-gradient(180deg, rgba(24, 24, 24, 0) 0%, rgba(24, 24, 24, 0.8) 80.79%), url(/img/homem-aranha.png);
+    background-image: linear-gradient(180deg, rgba(24, 24, 24, 0) 0%, rgba(24, 24, 24, 0.8) 80.79%), url(./img/homem-aranha.png);
     background-repeat: no-repeat;
     background-size: cover;
     width: 200px;
@@ -170,7 +170,7 @@ a {
 }
 
 .the-witcher {
-    background-image: linear-gradient(180deg, rgba(24, 24, 24, 0) 0%, rgba(24, 24, 24, 0.8) 80.79%), url(/img/the-witcher.png);
+    background-image: linear-gradient(180deg, rgba(24, 24, 24, 0) 0%, rgba(24, 24, 24, 0.8) 80.79%), url(./img/the-witcher.png);
     background-repeat: no-repeat;
     background-size: cover;
     width: 200px;
@@ -232,7 +232,7 @@ a {
 
 
     .batman {
-        background-image: linear-gradient(transparent -100%, #0c0c0c 95%), url(/img/Image.png);
+        background-image: linear-gradient(transparent -100%, #0c0c0c 95%), url(./img/Image.png);
         background-size: cover;
         height: 100%;
 
